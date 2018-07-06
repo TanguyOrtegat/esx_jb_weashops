@@ -1,13 +1,13 @@
 Locales ['en'] = {
 
-  ['buy_license'] = 'buy a license?',
-  ['yes'] = 'yes',
-  ['no'] = 'no',
-  ['buy'] = 'you bought',
-  ['not_enough_black'] = 'you do not have enough dirty money',
-  ['not_enough'] = 'you do not have enough money',
-  ['shop'] = 'shop',
-  ['shop_menu'] = 'Press ~INPUT_CONTEXT~ to access the shop.',
-  ['map_blip'] = 'gun shop',
+  ['buy_license'] = 'Buy a license?',
+  ['yes'] = 'Yes',
+  ['no'] = 'No',
+  ['buy'] = 'Purchased ',
+  ['not_enough_black'] = 'Not enough Dirty Money',
+  ['not_enough'] = 'Not enough Clean Money',
+  ['shop'] = 'Weapon Shop',
+  ['shop_menu'] = 'Press ~INPUT_CONTEXT~ to access the store.',
+  ['map_blip'] = 'Weapon Shop',
 
 }
